@@ -21,7 +21,7 @@ elif(BMI<=30 and BMI>25):
 else:
     print("you are morbidly overweight")
 
-"BMI for adults"
+"BMI for adults."
 # Severe Thinness   < 16     risk=high risk
 # Moderate Thinness	16 - 17  risk=icreased
 # Mild Thinness	   17 - 18.5 risk=minimal
